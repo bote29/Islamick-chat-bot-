@@ -43,11 +43,11 @@ module.exports.run = async function({ api, event }) {
 
 ┣━━━━━━━━━━━━━━━━━━━━━┫
 
-┃ 👤 𝐍𝐚𝐦𝐞      :  Md Bhai
+┃ 👤 𝐍𝐚𝐦𝐞      :  MD BHAI
 
 ┃ 🚹 𝐆𝐞𝐧𝐝𝐞𝐫    : 𝐌𝐚𝐥𝐞
 
-┃ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧  : Single Pro Max
+┃ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧  : SINGLE PRO MAX
 
 ┃ 🎂 𝐀𝐠𝐞       : 23
 
@@ -55,11 +55,11 @@ module.exports.run = async function({ api, event }) {
 
 ┃ 🏫 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : 𝐉𝐎𝐁
 
-┃ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬  : Kolkata,India
+┃ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬  : KOLKAT , INDIA
 
 ┣━━━━━━━━━━━━━━━━━━━━━┫
 
-┃ 🎭 𝐓𝐢𝐤𝐭𝐨𝐤  : sujon
+┃ 🎭 𝐓𝐢𝐤𝐭𝐨𝐤  : MD BHAI
 
 ┃ 📢 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 : [𝐉𝐨𝐢𝐧 𝐍𝐨𝐰](018131538)
 
@@ -79,7 +79,7 @@ module.exports.run = async function({ api, event }) {
 
   
 
-    return request(encodeURI(`https://www.facebook.com/sujonxn123?mibextid=ZbWKwL/picture?height=720&width=720&access_token=61575267073525%7Cc1e620fa708a1d5696fb991c1bde5662`))
+    return request(encodeURI(`https://https://www.facebook.com/profile.php?id=61575267073525/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`))
 
         .pipe(fs.createWriteStream(__dirname + '/cache/1.png'))
 
